@@ -17,13 +17,13 @@
 		<key>kind</key>
 		<string>display-image</string>
 		<key>url</key>
-		<string></string>
+		<string>https://archive.org/download/unc0ver-jailbreak-download/unc0ver-jailbreak-download.png</string>
 		</dict>
 		<dict>
 		<key>kind</key>
 		<string>full-size-image</string>
 		<key>url</key>
-		<string></string>
+		<string>https://archive.org/download/unc0ver-jailbreak-download/unc0ver-jailbreak-download.png</string>
 		</dict>
       </array>
       <key>metadata</key>
