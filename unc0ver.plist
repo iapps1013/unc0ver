@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd ...">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
 <plist version="1.0">
 <dict>
   <key>items</key>
@@ -13,19 +13,31 @@
         <key>url</key>
         <string>https://ipa-apps.me/download.php?url=https://ipa-apps.me/ipa/Unc0ver.ipa</string>
         </dict>
+		<dict>
+		<key>kind</key>
+		<string>display-image</string>
+		<key>url</key>
+		<string></string>
+		</dict>
+		<dict>
+		<key>kind</key>
+		<string>full-size-image</string>
+		<key>url</key>
+		<string></string>
+		</dict>
       </array>
       <key>metadata</key>
       <dict>
-        <key>bundle-indentifier</key
+        <key>bundle-identifier</key>
         <string>com.krish.unc0ver</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>unc0ver v5.3.1 - iapps1013</string>
-       </dict>
-     </dict>
-   </array>
- </dict>
- </plist>
+        <string>unc0ver - iapps1013</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
